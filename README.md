@@ -29,7 +29,7 @@ Every file is accessible through `dotfiles.wook.kr` (via `curl -L` or `wget`), e
 </summary><p>
 
 ```bash
-$ git clone --recursive https://github.com/wookayin/dotfiles.git ~/.dotfiles
+$ git clone --recursive https://github.com/ecrireme/dotfiles.git ~/.dotfiles
 $ cd ~/.dotfiles && python install.py
 ```
 
