@@ -398,4 +398,7 @@ if (( ! $+commands[tb] )); then
     alias tb='python -m tbtools.tb'
 fi
 
+alias duchamp='ssh -p 7910 jinseo.jeong@duchamp.snu.vision'
+alias monet='ssh -p 7910 -L 4650:localhost:4650 jinseo.jeong@monet.snu.vision'
+
 # }}}
