@@ -399,6 +399,8 @@ if (( ! $+commands[tb] )); then
 fi
 
 alias duchamp='ssh -p 7910 jinseo.jeong@duchamp.snu.vision'
+alias davinci='ssh -p 7910 jinseo.jeong@davinci.snu.vision'
+alias manet='ssh -p 7910 jinseo.jeong@manet.snu.vision'
 alias monet='ssh -p 7910 -L 4650:localhost:4650 jinseo.jeong@monet.snu.vision'
 
 # }}}
